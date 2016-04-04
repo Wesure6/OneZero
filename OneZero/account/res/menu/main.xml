@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.onezero.account.MainActivity" >
+
+    <item  
+        android:id="@+id/action_statistic"  
+        android:orderInCategory="100"  
+        android:showAsAction="always"  
+        android:icon="@drawable/statistic_stats"
+        android:title="Statistic"/>
+    
+        
+    
+    
+
+</menu>
